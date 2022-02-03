@@ -7,6 +7,8 @@
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmiyaki&layout=compact&langs_count=7&theme=dracula"/>
 <img height="100em" src="https://github-readme-stats.vercel.app/api?username=alexmiyaki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+  ##
+  
 </div>
 
 <h3 align="center"> Visite minhas redes sociais </h3>
@@ -19,6 +21,12 @@
 
 </div>
 
-<div align="center">
-
-</div>
+##
+  
+  
+ <div align="center"> 
+   <img height="180em" src="https://user-images.githubusercontent.com/98421968/152380544-d1762693-7082-4b50-809f-ce168dbc92f0.jpeg">
+ </div>
+ <div align="center">
+    Obrigado pela visita!
+  </div>
