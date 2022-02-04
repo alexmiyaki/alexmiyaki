@@ -1,4 +1,4 @@
-<h2 align ="center"> Olá! Eu sou o Alex Miyaki, Designer Gráfico em formação e Chef Confeiteiro! </h2>
+<h2 align ="center"> Olá! Eu sou o Alex Miyaki, Designer Gráfico em formação e Confeiteiro! </h2>
 
 
 <div align ="center">
